@@ -103,3 +103,5 @@ def mainMenu():
             menuBool = False
         else:
             print ("Opcion no valida")
+
+mainMenu()
