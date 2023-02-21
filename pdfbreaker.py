@@ -60,7 +60,7 @@ def menuSplitter():
 
 def menuMerger():
     boolMerger = True
-    while True:
+    while boolMerger == True:
         print("-----------------------------------")
         print("USTED HA ELEGIDO LA OPCION UNIR PDF")
         print("-----------------------------------")
